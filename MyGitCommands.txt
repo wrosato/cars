@@ -1,0 +1,9 @@
+git init
+git config --global user.name 'Will Rosato'
+git config --global user.email 'wrosato22@shawtech.org'
+git config --list
+git status
+git add.
+git commit -m 'initial version'
+git log
+git rm
